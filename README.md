@@ -4,7 +4,7 @@ Bem vindo ao repositório do projeto final de **Gislaine** , **Hudson** e **Walt
 Este é um projeto focado no mercado de pets. Para conscientizar sobre abandonos e maus tratos com os amiguinhos de quatro patas. Nosso portal é focado em adoção e localização de pets.
 
 
-<img src="https://prnt.sc/xbfK8mBVdlxv" />
+<img src="https://img001.prntscr.com/file/img001/iwTVlBQaSVOTc44pzKEmhQ.png" />
 
 ![Página Inicial](https://prnt.sc/9MFoe5rh0He9)
 
